@@ -29,5 +29,5 @@ switch ($answer)
         
     }
     "no"  {write-host "bitch what"}
-    default {write-host "i don't understand"}
+    default {write-host "I don't understand"}
 }
