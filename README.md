@@ -5,7 +5,7 @@ personal projects I did at home as well as projects I did at work to assist with
   **Language: Powershell**
   chatbot-style project that can play games with you, answer questions, and give information pulling from various APIs
   
-## Pokemon API Play
+## Pokemon Art Project Assist
   **Language: Powershell**
   Need to rename project name to reflect scope, but purpose is to help automate using every Pokémon, but not repeating any, to "catch them all" in a current art project
   Script will connect to Pokémon API, pull random name from list of all Pokémon, check a local text file(pokemonlistused.txt) to see if the Pokémon has already been used, and if not, present the mon to the user
